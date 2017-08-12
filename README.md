@@ -10,6 +10,8 @@ A support agent can exchange to text by own voice. This solution contribute stan
 3. Talk to your microphone about few seconds.
 4. Set text of own voice to description field automatically.
 
+I tested Dynamics 365 Online (8.2.1.341) with Bing Speech APIs.
+
 # How to implement?
 ## 1. Enable Bing Speech API.
 1. Login to Azure.
@@ -27,4 +29,4 @@ A support agent can exchange to text by own voice. This solution contribute stan
 7. Open Case form Editor.
 8. Insert [new_Button.html] Web Resource to the Case form.
 9. Publish All customizations
-
+ 
